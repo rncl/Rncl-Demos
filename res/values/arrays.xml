@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="name">
+        <item>Activity切换特效</item>
+    </string-array>
+    
+    <string-array name="description">
+        <item>在Android中，Activity之间切换的动画特效</item>
+    </string-array>
+
+</resources>
